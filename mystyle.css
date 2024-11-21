@@ -37,5 +37,6 @@ img {
 
 .header_ul {
     background: gray;
-    padding: 5px;
+    padding: 10px;
+    display: inline-block;
 }
