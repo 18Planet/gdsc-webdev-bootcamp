@@ -1,3 +1,41 @@
-p {
-    color: "blue"
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.greenANDborder {
+    color: green;
+    border: 5px green solid;
+}
+
+.PINK {
+    color: purple;
+    border: 10px pink solid;
+    display: inline-block;
+}
+
+body {
+    background-color: peachpuff
+}
+
+img {
+    height: 200px;
+    width: 300px;
+}
+
+.header {
+    display: inline;
+    border: 2px black solid;
+    background: white;
+    text: blue;
+    padding: 5px;
+    margin: 3px;
+}
+
+.header_ul {
+    background: gray;
+    padding: 5px;
 }
